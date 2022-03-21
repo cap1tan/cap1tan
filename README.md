@@ -21,7 +21,7 @@ My name is Sotiris and I'm a Process Engineer by trade, working in semiconductor
 I just like to **code** and automate things. I practiced C/C++/Java/HTML/CSS/Javascript/SQL during my studies, these days I'm mostly using **Python**.
 
 - 🔭 I’m currently working on a tool that combines and analyzes data from mutliple diverse sources in a factory
-- 🌱 Currently learning Data Science, check out my [Dataquest Jupyter notebooks](https://github.com/cap1tan/dataquest-projects)
+- 🌱 Currently learning *Data Science* (check out my [Dataquest Jupyter notebooks](https://github.com/cap1tan/dataquest-projects)), *Golang*
 
 <p>
   📣 Contact me :<br/>
