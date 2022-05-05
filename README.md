@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 My name is Sotiris and I'm a Process Engineer by trade, working in semiconductors. I come from Greece but I live and work in Belgium. 
 
-I just like to **code** and automate things. I practiced C/C++/Java/HTML/CSS/Javascript/SQL during my studies, these days I'm mostly using **Python**.
+I just like to **code** and automate things. I practiced C/C++/Java/HTML/CSS/Javascript/SQL/Matlab during my studies, these days I'm mostly using **Python**.
 
 - 🔭 I’m currently working on a tool that combines and analyzes data from mutliple diverse sources in a factory
 - 🌱 Currently learning *Data Science* (check out my [Dataquest Jupyter notebooks](https://github.com/cap1tan/dataquest-projects)), *Golang*
