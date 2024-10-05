@@ -21,7 +21,8 @@ I'm a process engineer by trade, working in the field of semiconductors.
 I just like to **code** and automate things. 
 I practiced C/C++/Java/HTML/CSS/Javascript/SQL/Matlab during my studies, these days I'm mostly using **Python**.
 
-- 🔭 I’m currently working on a coulpe of projects:
+- 🔭 I’m currently working on a few projects:
+    - A library to create nice interactive or static graphs of semiconductor wafers
     - A tool that combines and analyzes data from mutliple diverse sources to produce accurate lithographic process windows
     - A smart profile extractor that automatically measures useful parameters from features in XSEM images
 - 🌱 Currently studying *AI & Data Science* (postgrad in AI for business & industry, academic year 2024-2025)
